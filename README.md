@@ -213,7 +213,7 @@ All containers are connected via the custom bridge network: `hadoop-network`
    * 🐘 NameNode UI: `localhost:9870`
    * 💾 DataNode UI: `localhost:9864`
    * 🌈 Hue: [http://localhost:8891](http://localhost:8891)
-   * 🐘 pgAdmin: [http://localhost:8079](http://localhost:8079)
+   * 🛢 pgAdmin: [http://localhost:8079](http://localhost:8079)
 
 ---
 
