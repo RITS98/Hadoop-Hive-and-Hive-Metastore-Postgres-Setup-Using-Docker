@@ -227,4 +227,32 @@ All containers are connected via the custom bridge network: `hadoop-network`
 
 ---
 
+## Screenshots
+
+### NameNode
+
+<img width="1275" alt="image" src="https://github.com/user-attachments/assets/a5d81be2-f39b-4ea9-91b0-6bdf730fdf09" />
+
+### DataNode
+
+![image](https://github.com/user-attachments/assets/22a67c2b-11e9-4292-b038-e64d5ff2e5a6)
+
+### Hive
+
+<img width="1238" alt="image" src="https://github.com/user-attachments/assets/a53cdcbe-3204-417e-aab4-9cb3eb6c5a86" />
+
+### Hive Metastore (PostgreSQL Admin)
+
+<img width="1704" alt="image" src="https://github.com/user-attachments/assets/baec3f04-d664-4fdf-b823-e55aff7cafaa" />
+
+### Hue
+
+<img width="1261" alt="image" src="https://github.com/user-attachments/assets/8e513af4-4116-47f2-975b-2b2cd7a96db3" />
+
+---
+
+
+
+
+
 
